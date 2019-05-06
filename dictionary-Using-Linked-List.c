@@ -1,3 +1,8 @@
+// Powered BY Rock-Himanshu.
+// A dictionary Proto-Type and with only C Language.
+// This project is based on Graph, Which uses K-mean Search algorithm.
+//This is volatile dictonary which uses Linked list to save data.
+
 #include <stdio.h>
 #include <conio.h>
 #include <malloc.h>
